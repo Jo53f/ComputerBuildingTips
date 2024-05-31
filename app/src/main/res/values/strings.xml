@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Computer Tips</string>
+    <string name="tip1_title">Ensuring Compatibility</string>
+    <string name="tip1_content">Always be sure to check if the parts your putting together are in fact compatible with each other. Start by picking the CPU and GPU combination you\'d want. Whilst GPU choice might not really narrow down any particular motherboard, the CPU you\'d pair it with will.</string>
+    <string name="tip2_title">Consider Last Generation CPU</string>
+    <string name="tip2_content">Going for a last generation part might not be what comes to mind when building a new PC, but most CPU\'s only get slightly faster each generation. This means going for an older part that was a higher spec last generation, might be just as performant, whilst also being a lot cheaper. This might especially be the case if you\'re concerned with threaded workloads.</string>
+    <string name="tip3_title">Mind the CPU pins</string>
+    <string name="tip3_content">Be aware that you might come across CPU\'s where the pins stick out like in the picture above. Should that be the case, be mindful that these pins are prone to bending. In the case that they are bent, they can be bent back, though you should be very careful as to not break the pin</string>
+</resources>
